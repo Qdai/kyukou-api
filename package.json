@@ -12,7 +12,7 @@
     "moment": "~2.30.1",
     "mongoose": "^8.7.0",
     "truncate": "^3.0.0",
-    "twitter-api-v2": "^1.17.2",
+    "twitter-api-v2": "^1.19.0",
     "twitter-text": "^3.1.0"
   },
   "devDependencies": {
